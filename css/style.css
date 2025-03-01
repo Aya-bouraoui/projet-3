@@ -6,3 +6,12 @@
     background-color: #000000;
     height: 15px;
 }
+.red-ligne{
+background-color: darkred;
+height: 2px;
+}
+ .card{
+    border-radius:none 1!important;
+    border:none !important;
+    background-color: #ffd3338a !important;
+ }
